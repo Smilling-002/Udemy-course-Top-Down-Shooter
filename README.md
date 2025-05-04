@@ -1,2 +1,3 @@
-# Udemy-course-Top-Down-Shooter
-I want to make game to test with my friend
+I make game to play 
+
+and share to my friend
